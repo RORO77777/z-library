@@ -49,7 +49,7 @@ const LoginPage: React.FC = () => {
             />
           </div>
           <button type="submit" className="btn btn-primary w-full hover:btn-primary-focus transition-all duration-200">
-            Logout
+            Login
           </button>
         </form>
         <p className="text-center mt-4 text-gray-600">
